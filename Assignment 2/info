@@ -1,0 +1,502 @@
+{
+  "uuid": "dd8fca3849edee08cf0e2bdafaf9b1c3",
+  "path": "Offline/Assignment%202",
+  "name": "Assignment 2",
+  "content": "",
+  "created_at": "2026-09-11 18:43:27",
+  "updated_at": "2026-09-12 05:08:41",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "be15054e507561c1964ccae6e287a7be",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "625ef0f626734e02a8c4131dd8d5287e": 1,
+        "0b20493762aa46eaab9651966a080c6c": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 6,
+        "3ce630b4a7bd4c4a87c382e66d21f4f8": 1,
+        "84f38288e554479aa5f6a5d48f033acd": 3,
+        "1b591e91dfe94fdb91c26daf1469453d": 1,
+        "a2776a885e3e4cab9681a250bf6b4fe6": 1,
+        "b3482b554317432faf4514f8ad534f96": 1,
+        "a45fb06e0bcf45698dd2d45b22c83ef7": 1,
+        "38084d8591dd426a8a124482824d887d": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "4c967a9eed014437a1772e228209b930": 1,
+        "da17b3b7190c49fcb1404ebb60dfbd88": 1,
+        "e5c9b3a897f7443981b3f2fd99fb88e4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "9V",
+          1,
+          "BAT-TH_2P-9VBATTERY",
+          "BT2",
+          {
+            "Manufacturer Part": "9V电池铜线扣 铜100mm",
+            "Manufacturer": "QIJEY",
+            "Supplier": "LCSC",
+            "Supplier Part": "C70374"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED-GREEN",
+          1,
+          "LED-1206-BOTTOM",
+          "D1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "power switch",
+          1,
+          "SW-TH_TC-1102N-C-QL-B",
+          "KEY1",
+          {
+            "Manufacturer Part": "SWSPST",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003175"
+          }
+        ],
+        [
+          "LED-Red",
+          1,
+          "LED-0603",
+          "LED1",
+          {
+            "Manufacturer Part": "KT-0603R",
+            "Manufacturer": "Hubei KENTO Elec",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2286"
+          }
+        ],
+        [
+          "1k",
+          4,
+          "R0603",
+          "R1,R2,R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0603",
+          "R5,R6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LDR",
+          1,
+          "RESISTOR_LDR_5X4.1_RM3",
+          "R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-CCV",
+          "SG1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PUSH_button_Start",
+          1,
+          "SW_PUSH_BUTTON_MINI",
+          "SW1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PUSH_button_Stop",
+          1,
+          "SW_PUSH_BUTTON_MINI",
+          "SW2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PUSH_button_Reset",
+          1,
+          "SW_PUSH_BUTTON_MINI",
+          "SW3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-WROOM-32U-N16",
+          1,
+          "WIFI-SMD_ESP32-WROOM-32UE",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-WROOM-32U(16MB)",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2973674"
+          }
+        ],
+        [
+          "DHT11",
+          1,
+          "SENSOR-TH_DHT11",
+          "U2",
+          {
+            "Manufacturer Part": "DHT11",
+            "Manufacturer": "广州奥松",
+            "Supplier": "LCSC",
+            "Supplier Part": "C117051"
+          }
+        ],
+        [
+          "BATTERY MOTHERBOARD",
+          1,
+          "DIP-4_L26.0-W29.0_IP5310-BATTERY_MOTHERBOARD",
+          "U3",
+          {
+            "Manufacturer Part": "IP5310-Battery motherboard",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900076042"
+          }
+        ],
+        [
+          "Grove - OLED Display 0.96''",
+          1,
+          "GROVE - OLED DISPLAY 0.96''",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "SeeedStudio",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "Regulator",
+          1,
+          "SOT-223_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U6",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "ALJ(龙晶微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22458961"
+          }
+        ]
+      ],
+      "updateTime": 1789168121,
+      "createTime": 1789130608,
+      "histories": [],
+      "created_at": "2026-09-11 18:43:28",
+      "updated_at": "2026-09-12 05:08:41"
+    },
+    {
+      "uuid": "0e7bf4ac8a22259a2c0a591c0f6deb8a",
+      "puuid": "dd8fca3849edee08cf0e2bdafaf9b1c3",
+      "title": "PCB_Assignment 2",
+      "filename": "PCB_Assignment 2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c4056eadf02b4a918dff19cfe2ddda30": 1,
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "1fcb6b91f3e94ff5bd8baef56534f590": 1,
+        "029a3361d45143459282b1666df4decb": 1,
+        "2ada8f4ae55543e0922c8ee62e571dd5": 1,
+        "398691f1f785460098bbe5ee6590333c": 6,
+        "ec353ec0d2cc4289914afa6e1260efec": 1,
+        "e1543b900e784130a9164bd615641b11": 1,
+        "678d856801f84f2eb0caf149fc9ed44b": 3,
+        "52f4a22f6d8f427a9fe26645602170d5": 1,
+        "08631d89f1134ac8bb73c3bef2888e81": 1,
+        "840308dedc474667aa03ba9ecebd8bdc": 1,
+        "be350629973d4d2fa82f3a93755882f1": 1,
+        "4ca399a3887148eeab92cd3a98a855b3": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "9V",
+          1,
+          "BAT-TH_2P-9VBATTERY",
+          "BT2",
+          {
+            "Manufacturer Part": "9V电池铜线扣 铜100mm",
+            "Manufacturer": "QIJEY",
+            "Supplier": "LCSC",
+            "Supplier Part": "C70374"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED-GREEN",
+          1,
+          "LED-1206-BOTTOM",
+          "D1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "power switch",
+          1,
+          "SW-TH_TC-1102N-C-QL-B",
+          "KEY1",
+          {
+            "Manufacturer Part": "SWSPST",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900003175"
+          }
+        ],
+        [
+          "LED-Red",
+          1,
+          "LED-0603",
+          "LED1",
+          {
+            "Manufacturer Part": "KT-0603R",
+            "Manufacturer": "Hubei KENTO Elec",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2286"
+          }
+        ],
+        [
+          "1k",
+          4,
+          "R0603",
+          "R1,R2,R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0603",
+          "R5,R6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LDR",
+          1,
+          "RESISTOR_LDR_5X4.1_RM3",
+          "R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-CCV",
+          "SG1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PUSH_button_Start",
+          1,
+          "SW_PUSH_BUTTON_MINI",
+          "SW1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PUSH_button_Stop",
+          1,
+          "SW_PUSH_BUTTON_MINI",
+          "SW2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PUSH_button_Reset",
+          1,
+          "SW_PUSH_BUTTON_MINI",
+          "SW3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-WROOM-32U-N16",
+          1,
+          "WIFI-SMD_ESP32-WROOM-32UE",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-WROOM-32U(16MB)",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2973674"
+          }
+        ],
+        [
+          "DHT11",
+          1,
+          "SENSOR-TH_DHT11",
+          "U2",
+          {
+            "Manufacturer Part": "DHT11",
+            "Manufacturer": "广州奥松",
+            "Supplier": "LCSC",
+            "Supplier Part": "C117051"
+          }
+        ],
+        [
+          "IP5310-BATTERY MOTHERBOARD",
+          1,
+          "DIP-4_L26.0-W29.0_IP5310-BATTERY_MOTHERBOARD",
+          "U3",
+          {
+            "Manufacturer Part": "IP5310-Battery motherboard",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900076042"
+          }
+        ],
+        [
+          "Grove - OLED Display 0.96''",
+          1,
+          "GROVE - OLED DISPLAY 0.96''",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "SeeedStudio",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "Regulator",
+          1,
+          "SOT-223_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U6",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "ALJ(龙晶微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22458961"
+          }
+        ]
+      ],
+      "updateTime": 1789168114,
+      "createTime": 1789142460,
+      "histories": [],
+      "created_at": "2026-09-11 22:01:00",
+      "updated_at": "2026-09-12 05:08:34"
+    }
+  ],
+  "sort": [],
+  "title": "Assignment 2",
+  "foldername": "Assignment 2",
+  "schfilename": "Assignment 2.json",
+  "schfilemtime": 1789168121642
+}
